@@ -394,5 +394,131 @@
         "ArtistName": "The Calm Blue Sea",
         "AlbumID": 8775908,
         "AlbumName": "Arrivals & Departures"
+    },
+    {
+        "Url": "http://tinysong.com/1djfa",
+        "SongID": 33459278,
+        "SongName": "Space Oddity",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1294341,
+        "AlbumName": "Best of Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/LZ1B",
+        "SongID": 33459402,
+        "SongName": "Let's Dance",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1294341,
+        "AlbumName": "Best of Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/LvLJ",
+        "SongID": 33459424,
+        "SongName": "Modern Love",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1294341,
+        "AlbumName": "Best of Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/1djfb",
+        "SongID": 33787294,
+        "SongName": "Rebel Rebel",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1405413,
+        "AlbumName": "Changesbowie"
+    },
+    {
+        "Url": "http://tinysong.com/1djfc",
+        "SongID": 33459342,
+        "SongName": "Young Americans",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1294341,
+        "AlbumName": "Best of Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/dNjR",
+        "SongID": 3246919,
+        "SongName": "Major Tom",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 107134,
+        "AlbumName": "David Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/1djfd",
+        "SongID": 33787171,
+        "SongName": "Queen Bitch",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 137028,
+        "AlbumName": "Hunky Dory"
+    },
+    {
+        "Url": "http://tinysong.com/1djfe",
+        "SongID": 33492237,
+        "SongName": "The Jean Genie",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 107132,
+        "AlbumName": "Aladdin Sane"
+    },
+    {
+        "Url": "http://tinysong.com/HWO5",
+        "SongID": 3566855,
+        "SongName": "Across the Universe",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 172226,
+        "AlbumName": "Young Americans"
+    },
+    {
+        "Url": "http://tinysong.com/OAzT",
+        "SongID": 33784292,
+        "SongName": "Moonage Daydream",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 2359014,
+        "AlbumName": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
+    },
+    {
+        "Url": "http://tinysong.com/12znf",
+        "SongID": 32200989,
+        "SongName": "Under Pressure (ft. Queen)",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 1294341,
+        "AlbumName": "Best of Bowie"
+    },
+    {
+        "Url": "http://tinysong.com/11VRp",
+        "SongID": 33542573,
+        "SongName": "Oh! You Pretty Things",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 137028,
+        "AlbumName": "Hunky Dory"
+    },
+    {
+        "Url": "http://tinysong.com/Okuf",
+        "SongID": 32027050,
+        "SongName": "Starman",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 7962311,
+        "AlbumName": "Bowie at the Beeb: The Best of the BBC Radio Sessions 68-72"
+    },
+    {
+        "Url": "http://tinysong.com/1cjhC",
+        "SongID": 33663661,
+        "SongName": "Lady Stardust",
+        "ArtistID": 940,
+        "ArtistName": "David Bowie",
+        "AlbumID": 2359014,
+        "AlbumName": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars"
     }
 ]
